@@ -20,3 +20,4 @@ I am a Software Engineering student at [AltSchool Africa](https://www.altschoola
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=SundayOlubode&show_icons=true&include_all_commits=true&hide_border=true" alt="Olubode's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SundayOlubode&langs_count=8&layout=compact&hide_border=true" alt="Olubode's GitHub stats" /> |
 | ------------- | ------------- |
+[![@sundayolubode's Holopin board](https://holopin.me/sundayolubode)](https://holopin.io/@sundayolubode)
