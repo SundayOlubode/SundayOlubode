@@ -10,7 +10,7 @@ I am a Software Engineering student at the [African Leadership University](https
 
 - 😊 Pronouns: He/him
 - 😊 BackEnd Engineering(Node.js) at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 💡 Fun fact: I am a lover of music
+- 💡 Fun fact: I love good musics.
 - 🌱 I’m currently learning JavaScript, Node.js and Express.
 - 😊 I’m open for help with open source projects, internships, hackathons, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, BackEnd Engineer (Intern or Junior level).
