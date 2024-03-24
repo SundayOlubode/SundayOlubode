@@ -13,7 +13,7 @@ I am a Software Engineering student at the [African Leadership University](https
 - 💡 Fun fact: I love good musics.
 - 😊 I’m open to help with open source projects, internships, hackathons, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, BackEnd Engineer (Intern or Junior level).
-- 📫 You can contact me by emailing ssamuelolubode@gmail.com.
+- 📫 You can contact me by emailing s.olubode@alustudent.com.
 
 ---
 
