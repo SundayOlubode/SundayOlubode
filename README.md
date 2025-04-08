@@ -1,4 +1,4 @@
-# Samuel
+# Sam Olubode
 Profile
 # Hello there; welcome 👋🏾
 
